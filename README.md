@@ -39,8 +39,8 @@ I'm **Abisha Eunice**, a highly motivated **Computer Science Engineering student
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: [Mail Me](a.abishaeunice@gmail.com)
-- 🔗 LinkedIn: [View My LinkedIn](www.linkedin.com/in/abisha-eunice)
+- 📧 Email: [a.abishaeunice@gmail.com](mailto:a.abishaeunice@gmail.com)
+- 🔗 LinkedIn: [View My LinkedIn](https://www.linkedin.com/in/abisha-eunice)
 - 🌐 Portfolio: [View My Portfolio](https://685acf5b83a91844cfd5ff76--whimsical-starburst-4459cc.netlify.app/main.html)
 
 ---
